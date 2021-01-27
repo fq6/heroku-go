@@ -5,6 +5,16 @@
     "env": {
         "AUUID": {
             "value": "bb94ea11-31f0-4a75-a876-eb9097760f00"
+        },
+        "CONFIGCADDY": {
+            "value": "https://raw.githubusercontent.com/fq6/heroku-go/master/etc/Caddyfile"
+        },
+        "CONFIGXRAY": {
+            "value": "https://raw.githubusercontent.com/fq6/heroku-go/master/etc/xray.json"
+        },
+        "StoreFiles": {
+            "description": "自定义网络地址读取存储文件列表",
+            "value": "https://raw.githubusercontent.com/fq6/heroku-go/master/etc/StoreFiles"
         }
     },
     "website": "https://github.com/fq6/heroku-go",
