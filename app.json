@@ -1,0 +1,13 @@
+{
+    "name": "trojan",
+    "description": "xray websocket proxy on heroku",
+    "keywords": ["xray vless trojan "],
+    "env": {
+        "AUUID": {
+            "value": "bb94ea11-31f0-4a75-a876-eb9097760f00"
+        }
+    },
+    "website": "https://github.com/fq6/heroku-go",
+    "repository": "https://github.com/fq6/heroku-go",
+    "stack": "container"
+}
